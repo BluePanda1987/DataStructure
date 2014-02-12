@@ -5,7 +5,7 @@
  *      Author: lixin
  */
 
-#include "Sequence.h"
+#include "SequelList.h"
 
 #ifndef SECOPERATOR_H_
 #define SECOPERATOR_H_

@@ -1,12 +1,12 @@
 /*
- * Sequence.h
+ * SequelList.h
  *
  *  Created on: Feb 11, 2014
  *      Author: lixin
  */
 
-#ifndef SEQUENCE_H_
-#define SEQUENCE_H_
+#ifndef SEQUELLIST_H_
+#define SEQUELLIST_H_
 
 #define ListSize 100
 

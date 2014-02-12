@@ -13,6 +13,7 @@ EXECUTABLES :=
 
 # Every subdirectory with source files must be described here
 SUBDIRS := \
-src/LinearList \
+src/LinearList/SequelList \
+src/LinearList/LinkList \
 src \
 
