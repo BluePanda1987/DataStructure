@@ -10,10 +10,10 @@
 
 typedef int DataType;
 
-typedef struct
+typedef struct _LinNode
 {
 	DataType data;
-	struct LinkNode* next;
+	struct _LinNode* next;
 
 }LinkNode;
 
