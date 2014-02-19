@@ -17,7 +17,7 @@ LinkNode* GetNodeByIndex(LinkList head, int index);
 
 LinkNode* GetNodeByData(LinkList head, DataType data);
 
-void InsertList(LinkList head, int index, DataType data);
+void LinkListInsert(LinkList head, int index, DataType data);
 
 void DeleteListByData(LinkList head, DataType data);
 
