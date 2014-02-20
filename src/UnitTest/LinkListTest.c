@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#include"../LinearList/LinkList/LinkListOperator.h"
+#include"../LinearList/LinkList/SingleLinkList/LinkListOperator.h"
 
 int main(void)
 {
