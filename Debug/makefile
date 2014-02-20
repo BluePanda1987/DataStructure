@@ -11,6 +11,7 @@ RM := rm -rf
 -include src/UnitTest/subdir.mk
 -include src/Practice/SingleList/CircularList/subdir.mk
 -include src/Practice/SingleList/subdir.mk
+-include src/Practice/DoubleList/subdir.mk
 -include src/LinearList/SequelList/subdir.mk
 -include src/LinearList/LinkList/SingleLinkList/subdir.mk
 -include src/LinearList/LinkList/DoubleLinkList/subdir.mk

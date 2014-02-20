@@ -16,6 +16,7 @@ SUBDIRS := \
 src/UnitTest \
 src/Practice/SingleList \
 src/Practice/SingleList/CircularList \
+src/Practice/DoubleList \
 src/LinearList/SequelList \
 src/LinearList/LinkList/SingleLinkList \
 src/LinearList/LinkList/DoubleLinkList \
