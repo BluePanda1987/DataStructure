@@ -14,7 +14,9 @@ EXECUTABLES :=
 # Every subdirectory with source files must be described here
 SUBDIRS := \
 src/UnitTest \
+src/Practice/SingleList \
+src/Practice/SingleList/CircularList \
 src/LinearList/SequelList \
-src/LinearList/LinkList \
+src/LinearList/LinkList/SingleLinkList \
 src \
 
