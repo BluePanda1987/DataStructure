@@ -13,6 +13,7 @@ RM := rm -rf
 -include src/Practice/SingleList/subdir.mk
 -include src/LinearList/SequelList/subdir.mk
 -include src/LinearList/LinkList/SingleLinkList/subdir.mk
+-include src/LinearList/LinkList/DoubleLinkList/subdir.mk
 -include src/subdir.mk
 -include subdir.mk
 -include objects.mk

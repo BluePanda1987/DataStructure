@@ -18,5 +18,6 @@ src/Practice/SingleList \
 src/Practice/SingleList/CircularList \
 src/LinearList/SequelList \
 src/LinearList/LinkList/SingleLinkList \
+src/LinearList/LinkList/DoubleLinkList \
 src \
 

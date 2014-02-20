@@ -84,7 +84,7 @@ LinkList MergeLinkList(LinkList La, LinkList Lb)
 		previousMoveNode = previousMoveNode->next;
 	}
 
-	moveNodeB->next == NULL ? mvoeNodeA->next = moveNodeB : mvoeNodeA->next = NULL;
+	moveNodeB->next == NULL ? (mvoeNodeA->next = moveNodeB) : (mvoeNodeA->next = NULL);
 
 	free(Lb);
 	Lb = NULL;
