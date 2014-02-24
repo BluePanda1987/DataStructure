@@ -9,6 +9,8 @@ RM := rm -rf
 # All of the sources participating in the build are defined here
 -include sources.mk
 -include src/UnitTest/subdir.mk
+-include src/Stack/SequeStack/subdir.mk
+-include src/Stack/LinkStack/subdir.mk
 -include src/Practice/SingleList/CircularList/subdir.mk
 -include src/Practice/SingleList/subdir.mk
 -include src/Practice/DoubleList/subdir.mk

@@ -14,6 +14,8 @@ EXECUTABLES :=
 # Every subdirectory with source files must be described here
 SUBDIRS := \
 src/UnitTest \
+src/Stack/SequeStack \
+src/Stack/LinkStack \
 src/Practice/SingleList \
 src/Practice/SingleList/CircularList \
 src/Practice/DoubleList \
