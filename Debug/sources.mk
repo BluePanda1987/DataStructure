@@ -14,12 +14,14 @@ EXECUTABLES :=
 # Every subdirectory with source files must be described here
 SUBDIRS := \
 src/UnitTest \
-src/Stack/SequeStack \
+src/Stack/SequenceStack \
 src/Stack/LinkStack \
+src/Queue/SequenceQueue \
+src/Queue/LinkQueue \
 src/Practice/SingleList \
 src/Practice/SingleList/CircularList \
 src/Practice/DoubleList \
-src/LinearList/SequelList \
+src/LinearList/Sequence \
 src/LinearList/LinkList/SingleLinkList \
 src/LinearList/LinkList/DoubleLinkList \
 src \
