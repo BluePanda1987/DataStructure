@@ -17,7 +17,8 @@ src/UnitTest \
 src/Stack/SequenceStack \
 src/Stack/LinkStack \
 src/Queue/SequenceQueue \
-src/Queue/LinkQueue \
+src/Queue/LinkQueue/Normal \
+src/Queue/LinkQueue/Cycle \
 src/Practice/SingleList \
 src/Practice/SingleList/CircularList \
 src/Practice/DoubleList \

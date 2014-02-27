@@ -12,7 +12,8 @@ RM := rm -rf
 -include src/Stack/SequenceStack/subdir.mk
 -include src/Stack/LinkStack/subdir.mk
 -include src/Queue/SequenceQueue/subdir.mk
--include src/Queue/LinkQueue/subdir.mk
+-include src/Queue/LinkQueue/Normal/subdir.mk
+-include src/Queue/LinkQueue/Cycle/subdir.mk
 -include src/Practice/SingleList/CircularList/subdir.mk
 -include src/Practice/SingleList/subdir.mk
 -include src/Practice/DoubleList/subdir.mk
