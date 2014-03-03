@@ -21,6 +21,7 @@ src/Queue/LinkQueue/Normal \
 src/Queue/LinkQueue/Cycle \
 src/Practice/SingleList \
 src/Practice/SingleList/CircularList \
+src/Practice/MutiArrays \
 src/Practice/DoubleList \
 src/LinearList/Sequence \
 src/LinearList/LinkList/SingleLinkList \

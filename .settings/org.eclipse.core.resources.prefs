@@ -2,6 +2,7 @@ eclipse.preferences.version=1
 encoding//src/LinearList/LinkList/DoubleLinkList/DoubleLinkListOperator.h=UTF-8
 encoding//src/LinearList/LinkList/SingleLinkList/LinkListOperator.h=UTF-8
 encoding//src/Practice/DoubleList/DoubleListPractice.c=UTF-8
+encoding//src/Practice/MutiArrays/MutiArrays.c=UTF-8
 encoding//src/Practice/SingleList/CircularList/CircularListPractice.c=UTF-8
 encoding//src/Practice/SingleList/LinkListPractice.c=UTF-8
 encoding//src/Queue/SequenceQueue/SequenceQueue.c=UTF-8
