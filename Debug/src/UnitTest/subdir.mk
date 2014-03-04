@@ -4,13 +4,16 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS += \
-../src/UnitTest/LinkListTest.c 
+../src/UnitTest/LinkListTest.c \
+../src/UnitTest/MinMaxValueTest.c 
 
 OBJS += \
-./src/UnitTest/LinkListTest.o 
+./src/UnitTest/LinkListTest.o \
+./src/UnitTest/MinMaxValueTest.o 
 
 C_DEPS += \
-./src/UnitTest/LinkListTest.d 
+./src/UnitTest/LinkListTest.d \
+./src/UnitTest/MinMaxValueTest.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes

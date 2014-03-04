@@ -3,19 +3,19 @@
 
 #include"../LinearList/LinkList/SingleLinkList/LinkListOperator.h"
 
-int main(void)
-{
-	LinkList testList = CreateListAndInitByChars();
-	LinkNode* tempNode = testList;
-
-	printf("out put test: ");
-	while(tempNode->next != NULL)
-	{
-		printf("%c", tempNode->data);
-		LinkNode* freeNode = tempNode;
-		tempNode = tempNode->next;
-		free(freeNode);
-	}
-
-	return EXIT_SUCCESS;
-}
+//int main(void)
+//{
+//	LinkList testList = CreateListAndInitByChars();
+//	LinkNode* tempNode = testList;
+//
+//	printf("out put test: ");
+//	while(tempNode->next != NULL)
+//	{
+//		printf("%c", tempNode->data);
+//		LinkNode* freeNode = tempNode;
+//		tempNode = tempNode->next;
+//		free(freeNode);
+//	}
+//
+//	return EXIT_SUCCESS;
+//}
